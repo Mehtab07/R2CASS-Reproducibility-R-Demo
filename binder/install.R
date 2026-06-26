@@ -1,0 +1,1 @@
+install.packages(c("dplyr", "ggplot2", "readr", "knitr", "viridis", "RColorBrewer", "forcats"), repos = "https://cloud.r-project.org/")
