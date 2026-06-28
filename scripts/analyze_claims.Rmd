@@ -1,6 +1,6 @@
 ---
-title: "Reproducible Analysis of Politician Claims: An R Demo for R2CASS@ICWSM"
-author: "Lorraine Saju" # Updated with your name
+title: "Reproducible Analysis of Politician Claims: An R Demo for R2CASS@WWW'26"
+author: "Mehtab Shah" # Updated with your name
 date: "`r Sys.Date()`"
 output: html_document
 ---
