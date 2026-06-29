@@ -9,13 +9,15 @@ This R Markdown document demonstrates a reproducible analysis of a subset of the
 
 **Goal:** To load a dataset of politician claims, analyze the distribution of their truth ratings, and visualize the results.
 
-## 1. Setup and Data Loading
+##  Setup
 
 First, we'll load the necessary libraries (`tidyverse` for data manipulation and plotting, which includes `dplyr`, `ggplot2`, `readr`, etc.). Then we'll load our dataset.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 ```
+## 1. Data Loading
+
 ```{r}
 # Load necessary libraries
 library(dplyr)
