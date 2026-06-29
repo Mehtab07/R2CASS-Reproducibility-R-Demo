@@ -9,7 +9,7 @@ This R Markdown document demonstrates a reproducible analysis of a subset of the
 
 **Goal:** To load a dataset of politician claims, analyze the distribution of their truth ratings, and visualize the results.
 
-##  Setup
+## Setup
 
 First, we'll load the necessary libraries (`tidyverse` for data manipulation and plotting, which includes `dplyr`, `ggplot2`, `readr`, etc.). Then we'll load our dataset.
 
